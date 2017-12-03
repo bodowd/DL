@@ -1,0 +1,5 @@
+5 epochs 
+Train Loss: 0.8513
+Train Accuracy: 0.7667
+Test Loss: 1.06
+Test Accuracy: 0.775
